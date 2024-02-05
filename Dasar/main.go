@@ -7,6 +7,7 @@ import (
 func main() {
 	tipeData()
 	operator()
+	stringMan()
 }
 
 func tipeData() {
@@ -32,4 +33,12 @@ func operator() {
 	fmt.Println(true && false)
 	fmt.Println(true || false)
 	fmt.Println(!false)
+}
+
+func stringMan() {
+	fmt.Println("a" + "b")
+	fmt.Println(len("Belajar"))
+	fmt.Println("Belajar" [0])
+	fmt.Println("Belajar" [0:4])
+	fmt.Println("Belajar" [0:])
 }
