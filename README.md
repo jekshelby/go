@@ -1,6 +1,6 @@
 # Belajar GO
 
-Repositori ini dibuat untuk menampung kode-kode PHP yang saya pelajari selama proses belajar bahasa pemrograman PHP. Repositori ini akan berisi berbagai macam program, mulai dari program sederhana seperti kalkulator hingga program yang lebih kompleks seperti website sederhana.
+Repositori ini dibuat untuk menampung kode-kode Go yang saya pelajari selama proses belajar bahasa pemrograman Go. Repositori ini akan berisi berbagai macam program, mulai dari program sederhana seperti kalkulator hingga program yang lebih kompleks seperti aplikasi web sederhana.
 
 ## Materi Belajar
 
